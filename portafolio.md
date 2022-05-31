@@ -33,14 +33,14 @@ Este es un portafolio utilizando la herramienta google colab junto con github. L
   - [Ejercicio 9. Ajuste con spline cúbico](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_6_Inversa_Determinante.ipynb)
   - [Ejercicio 10. Método de mínimos cuadrados](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_7_M%C3%A9todo_de_Gauss.ipynb)
   - [Ejercicio 11. Ajuste no polinomial por mínimos cuadrados](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_8_M%C3%A9todo_de_Intercambio.ipynb)
-  - [Mapa Conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
+  - [Mapa Conceptual](https://github.com/neto-riga/metodos_numericos_2/blob/main/mapa_u3.md)
 - Diferenciación e Integración Numérica
   - [Ejercicio 12. Diferenciación numérica por diferencias divididas](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_13_Doolittle.ipynb)
   - [Ejercicio 13-a. Diferenciación por diferencias finitas](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_14_Cholesky.ipynb)
   - [Ejercicio 13-b. Extrapolación de Richardson](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_15_Potencia.ipynb)
   - [Ejercicio 14. Integración numérica](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_16_Householder.ipynb)
   - [Ejercicio 15. Extrapolación de Romberg](#ejercicio-17-iteración-qr)
-  - [Mapa Conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
+  - [Mapa Conceptual](https://github.com/neto-riga/metodos_numericos_2/blob/main/mapa_u4.md)
 
 <!-- # Análisis de Error
 ## Ejercicio 1. Error de Redondeo
