@@ -8,7 +8,7 @@ En este ejercicio se muestra un mapa conceptual que intenta abarcar todos los te
 <center>
 <img src="Mapa2.jpg"
      alt="Logo"
-     style="height:1300px; text-align:"center";" />
+     style="height:1000px; text-align:"center";" />
 </center>
 </div>
 
