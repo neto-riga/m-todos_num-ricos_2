@@ -7,19 +7,19 @@
 </div>
 <br><br>
 
-# Portafolio Métodos Numéricos :technologist:
+# Portafolio Métodos Numéricos II :technologist:
 ## Rivera Gálvez Ernesto
 <br>
 <br>
-Este es un portafolio utilizando la herramienta google colab junto con github. Algunos ejercicios se realizaron en equipo, de ser así los integrantes se mostrarán al inicio de cada documento. Para acceder al documento basta con darle click en el índice, se trasladará a otro documento dentro del mismo repositorio, para regresar al índice se muestra un hipervínculo al inicio y al final. Para mayor provecho, se añadió para abrir en google colab directamente una insignia al inicio de cada documento, donde algunos trabajos muestran gráficas interactivas o simplemente un mejor renderizado.
+Este es un portafolio utilizando la herramienta google colab junto con github. Los ejercicios se realizaron en equipo, junto con Raúl Martínez Venegas. Para acceder al documento basta con darle click en el índice, se trasladará a otro documento dentro del mismo repositorio, para regresar al índice se muestra un hipervínculo al inicio y al final. Para mayor provecho, se añadió para abrir en google colab directamente una insignia al inicio de cada documento, donde algunos trabajos muestran gráficas interactivas o simplemente un mejor renderizado.
 
 <br> <br>
 # Índice
 
 - [Índice](#índice)
-- Análisis de Error
-  - [Ejercicio 0. Mapa conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
-  - [Ejercicio 1. Error de Redondeo](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_1_Error_de_Redondeo.ipynb)
+- Solución a Sistemas de Ecuaciones No Lineales
+  - [Mapa Conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
+  - [Ejercicio 1. Método del punto fijo](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_1_Error_de_Redondeo.ipynb)
 - Solución de Ecuaciones
   - [Ejercicio 2. Método de Bisección](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio2_Biseccion.ipynb)
   - [Ejercicio 3. Método de la Posición Falsa](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_3_Posici%C3%B3n_Falsa.ipynb)
