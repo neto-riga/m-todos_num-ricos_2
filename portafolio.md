@@ -28,7 +28,7 @@ Este es un portafolio utilizando la herramienta google colab junto con github. L
   - [Ejercicio 6. Interpolación por diferencias divididas](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_3_Posici%C3%B3n_Falsa.ipynb)
   - [Ejercicio 7. Interpolación por diferencias de Newton](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_4_M%C3%A9todo_de_Newton.ipynb)
   - [Ejercicio 8. Fórmula de Hermite](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_5_Secante.ipynb)
-  - [Mapa Conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
+  - [Mapa Conceptual](https://github.com/neto-riga/metodos_numericos_2/blob/main/mapa_u2.md)
 - Ajuste de Curvas
   - [Ejercicio 9. Ajuste con spline cúbico](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_6_Inversa_Determinante.ipynb)
   - [Ejercicio 10. Método de mínimos cuadrados](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_7_M%C3%A9todo_de_Gauss.ipynb)
