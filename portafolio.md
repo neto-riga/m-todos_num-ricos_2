@@ -20,6 +20,7 @@ Este es un portafolio utilizando la herramienta google colab junto con github. L
 - Solución a Sistemas de Ecuaciones No Lineales
   - [Mapa Conceptual](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_0_mapa.md)
   - [Ejercicio 1. Método del punto fijo](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_1_Error_de_Redondeo.ipynb)
+  - [Ejercicio 2. Método de Newton-Raphson](https://colab.research.google.com/drive/144ngV0NYhtY40nqCKpXflH-kpzUyXXXy?usp=sharing)
 - Solución de Ecuaciones
   - [Ejercicio 2. Método de Bisección](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio2_Biseccion.ipynb)
   - [Ejercicio 3. Método de la Posición Falsa](https://github.com/neto-riga/Metodos_Numericos/blob/main/Ejercicio_3_Posici%C3%B3n_Falsa.ipynb)
