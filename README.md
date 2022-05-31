@@ -1,2 +1,2 @@
-# m-todos_num-ricos_2
-Portafolio con todos los trabajos realizados a lo largo de semestre utilizando python para programarlos y google colab
+# Métodos Numéricos II
+Portafolio con todos los trabajos realizados a lo largo de semestre utilizando python para programarlos y google colab como editor para trabajar en equipo. Se encuentra un archivo en markdown con el nombre de portafolio, este funciona como índice para navegar de forma ordendada a lo largo de los trabajos. Estos trabajos fueron realizados para la materia de Métodos Numéricos 2 de la carrera Matemáticas Aplicadas y Computación en la UNAM
