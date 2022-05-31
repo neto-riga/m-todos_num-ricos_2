@@ -1,6 +1,6 @@
 ## [Regresar al ínidce](https://github.com/neto-riga/metodos_numericos_2/blob/main/portafolio.md#índice)
 
-# Mapa conceptual. Interpolación Polinomial
+# Mapa conceptual. Diferenciación e Integración Numérica
 
 En este ejercicio se muestra un mapa conceptual que intenta abarcar todos los temas vistos en la unidad 4. Esto es **Diferenciación e Integración Numérica**.
 
