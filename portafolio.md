@@ -26,7 +26,7 @@ Este es un portafolio utilizando la herramienta google colab junto con github. L
 - Interpolación Polinomial
   - [Ejercicio 5. Interpolación de Lagrange](https://github.com/neto-riga/metodos_numericos_2/blob/main/5_interpolaci%C3%B3n_de_lagrange.ipynb)
   - [Ejercicio 6. Interpolación por diferencias divididas](https://github.com/neto-riga/metodos_numericos_2/blob/main/6_interpolaci%C3%B3n_diferencias_divididas.ipynb)
-  - [Ejercicio 7. Interpolación por diferencias de Newton](.https://github.com/neto-riga/metodos_numericos_2/blob/main/7_interpolaci%C3%B3n_por_diferencias_de_newton.ipynb)
+  - [Ejercicio 7. Interpolación por diferencias de Newton](https://github.com/neto-riga/metodos_numericos_2/blob/main/7_interpolaci%C3%B3n_por_diferencias_de_newton.ipynb)
   - [Ejercicio 8. Fórmula de Hermite](https://github.com/neto-riga/metodos_numericos_2/blob/main/8_formula_de_hermite.ipynb)
   - [Mapa Conceptual](https://github.com/neto-riga/metodos_numericos_2/blob/main/mapa_u2.md)
 - Ajuste de Curvas
