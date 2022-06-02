@@ -9,6 +9,7 @@
 
 # Portafolio Métodos Numéricos II :technologist:
 ## Rivera Gálvez Ernesto
+### Grupo 2401
 <br>
 <br>
 Este es un portafolio utilizando la herramienta google colab junto con github. Los ejercicios se realizaron en equipo, junto con Raúl Martínez Venegas. Para acceder al documento basta con darle click en el índice, se trasladará a otro documento dentro del mismo repositorio, para regresar al índice se muestra un hipervínculo al inicio y al final. Para mayor provecho, se añadió para abrir en google colab directamente una insignia al inicio de cada documento, donde algunos trabajos muestran gráficas interactivas o simplemente un mejor renderizado.
